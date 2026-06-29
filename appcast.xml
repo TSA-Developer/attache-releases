@@ -12,7 +12,6 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/TSA-Developer/attache-releases/releases/tag/v1.2</sparkle:releaseNotesLink>
             <enclosure
                 url="https://github.com/TSA-Developer/attache-releases/releases/download/v1.2/Attache.zip"
                 sparkle:edSignature="lH1nuc3bnUXv3DqTSSu0wFDzC+VhzCrTls6tM3AkLouYHJJVP3Jy5ajeOUtpGjChqun6thsND6S5UAySmL06BQ=="
@@ -26,7 +25,6 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/TSA-Developer/attache-releases/releases/tag/v1.1</sparkle:releaseNotesLink>
             <enclosure
                 url="https://github.com/TSA-Developer/attache-releases/releases/download/v1.1/Attache.zip"
                 sparkle:edSignature="D/SCqhDcMOX0qBR7GR0xeliLXzwDu0+QNrelazeV70/aRRDulokAKw1x8APV9Lk8ToHclJ+ocXfbbSgtWLnbAw=="
@@ -40,7 +38,6 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/TSA-Developer/attache-releases/releases/tag/v1.0</sparkle:releaseNotesLink>
             <enclosure
                 url="https://github.com/TSA-Developer/attache-releases/releases/download/v1.0/Attache.zip"
                 sparkle:edSignature="qMkLGptr7503s0mM/puMMYdeoAGzlHinVQFR1lrUvhPtTmfqfcqXH4XvRVZhRwtrG1p9xU+jyfY7zH1jmDa2AA=="
