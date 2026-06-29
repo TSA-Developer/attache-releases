@@ -7,6 +7,19 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3</title>
+            <pubDate>Sun, 28 Jun 2026 22:07:56 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/TSA-Developer/attache-releases/releases/download/v1.3/Attache.zip"
+                sparkle:edSignature="DzdM6CkxDAx+Tu8Wi/IN0EBnnUB7PzgCZBOBGPXiiQleJbH00iidQG5F62iSuSFyPUUUkkKxhfIpQkG0HgKrDg=="
+                length="2541714"
+                type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.2</title>
             <pubDate>Sun, 28 Jun 2026 21:56:28 -0500</pubDate>
             <sparkle:version>3</sparkle:version>
