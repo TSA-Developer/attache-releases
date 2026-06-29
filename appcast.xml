@@ -6,7 +6,20 @@
         <description>Attaché release updates</description>
         <language>en</language>
 
-        <!-- Most recent release first -->
+        <item>
+            <title>Version 1.1</title>
+            <pubDate>Sun, 28 Jun 2026 21:39:40 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/TSA-Developer/attache-releases/releases/tag/v1.1</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/TSA-Developer/attache-releases/releases/download/v1.1/Attache.zip"
+                sparkle:edSignature="D/SCqhDcMOX0qBR7GR0xeliLXzwDu0+QNrelazeV70/aRRDulokAKw1x8APV9Lk8ToHclJ+ocXfbbSgtWLnbAw=="
+                length="2539283"
+                type="application/octet-stream"/>
+        </item>
+
         <item>
             <title>Version 1.0</title>
             <pubDate>Sun, 28 Jun 2026 21:15:21 -0500</pubDate>
