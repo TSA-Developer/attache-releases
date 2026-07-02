@@ -3,13 +3,13 @@
     <channel>
         <title>Attaché</title>
         <item>
-            <title>1.8</title>
-            <pubDate>Wed, 01 Jul 2026 14:28:19 -0500</pubDate>
+            <title>1.9</title>
+            <pubDate>Wed, 01 Jul 2026 23:58:47 -0500</pubDate>
             <link>https://github.com/TSA-Developer/attache-releases</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TSA-Developer/attache-releases/releases/download/v1.8/Attache.zip" length="2675253" type="application/octet-stream" sparkle:edSignature="WIaq5VCg1+NJOoDZEDeHjMkyUT84eWoIptovedNv/XsGfBSRoX3QgIbFue7xXvum+slIFCylqdJgQGa8KUsGCA=="/>
+            <enclosure url="https://github.com/TSA-Developer/attache-releases/releases/download/v1.9/Attache.zip" length="2738882" type="application/octet-stream" sparkle:edSignature="T28LUuNuisLJXiQf7GJAqDh2qGPkc051wJ4VCHgLv4dVVQffAZNTQ3b1JJfVIiJ1yr/IBEOX4D0ySugnlxc5Cw=="/>
         </item>
     </channel>
 </rss>
